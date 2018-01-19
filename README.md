@@ -1,3 +1,3 @@
 # GitHubTutorial
 
-- Online change
+- This line was written offline
